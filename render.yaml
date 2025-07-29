@@ -12,6 +12,6 @@ services:
       - key: N8N_BASIC_AUTH_PASSWORD
         value: "admin123"
       - key: N8N_HOST
-        value: "n8n.onrender.com"
+        value: "n8n-docker-yjrf.onrender.com"
       - key: WEBHOOK_TUNNEL_URL
-        value: "https://n8n.onrender.com"
+        value: "https://n8n-docker-yjrf.onrender.com"
